@@ -1,0 +1,28 @@
+name: Henries
+favicon: null
+layout_spectrum: 0.6484534966293722
+typography_spectrum: 0.8024914984125644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.0773244930896908
+  lightness: 0.23339228867553174
+  saturation: 0.9199970883782953
+  rhythmicContrast: 0.3560690092854202
+purpose: []
